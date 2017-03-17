@@ -1,0 +1,15 @@
+.mapBg{
+  width: 30px;
+  height: 30px;
+  background-color: lightblue;
+}
+.wall{
+  width: 30px;
+  height: 30px;
+  background-color: red;
+}
+#player{
+  width: 30px;
+  height: 30px;
+  background-color: orange;
+}
